@@ -1,0 +1,23 @@
+{
+  "name": "asynclanding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaimemara5/asyncLanding.git"
+  },
+  "keywords": [],
+  "author": "Jaime <jaimefg92@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaimemara5/asyncLanding/issues"
+  },
+  "homepage": "https://github.com/jaimemara5/asyncLanding#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
